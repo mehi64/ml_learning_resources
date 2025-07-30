@@ -1,0 +1,3 @@
+Gaussian-Mixture VAE (GM-VAE)
+https://www.sciencedirect.com/science/article/abs/pii/S156849461930184X
+
